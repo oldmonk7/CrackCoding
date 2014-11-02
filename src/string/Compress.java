@@ -130,7 +130,7 @@ public class Compress {
 		 System.out.println(endTime - startTime);
 		 
 		 startTime = System.nanoTime();
-			compressed = compressBest("kkkklhffgddqqqwaadjgggggggghfrrtryyee");
+			compressed = compressBest("kkkklhffgddqqqwaadjggggggggggggggggggghfrrtryyee");
 			endTime = System.nanoTime();
 			 System.out.println(endTime - startTime);
 		

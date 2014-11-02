@@ -20,6 +20,7 @@ public class AnimalShelter {
 	}
 	
      void enqueue(String type){
+    	 
 		
 		animals.addLast(this.new Animal(type));
 		
